@@ -39,7 +39,7 @@ Info About Ze
 
 - Not Support For Who Using Termux Version (Linux)
 
-- YaPB Will Replaced To E-Bots
+- Running With E-Bots !
 
 
 Install Termux Box
