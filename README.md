@@ -39,7 +39,7 @@ Info About Ze
 
 - Not Support For Who Using Termux Version (Linux)
 
-- YaPB Will Replaced To E-Bots (Maps-Ze) !!
+- YaPB Will Replaced To E-Bots
 
 
 Install Termux Box
@@ -72,4 +72,4 @@ Discord
 
 
 
-# Mod Is Not Released Right Now , Still under maintenance 
+# Mod Is Not Released Right Now, Still under maintenance
