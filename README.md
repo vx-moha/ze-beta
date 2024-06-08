@@ -27,6 +27,7 @@ What's New ?
 
 - Astra Guillotineex Will Replace In Diamond Menu !
 
+- Ice Cube Added !
 
 Info About Ze
 -
