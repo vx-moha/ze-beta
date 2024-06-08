@@ -3,6 +3,8 @@
 What's New ?
 -
 
+- New Knife Menu !
+
 - Fixed Zombie Hands !
 
 - Zombie Classes With Levels ! 
@@ -68,4 +70,4 @@ Discord
 
 
 
-| Mod Is Not Released Right Now , Still under maintenance 
+|| Mod Is Not Released Right Now , Still under maintenance 
