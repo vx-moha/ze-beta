@@ -1,4 +1,4 @@
-# Zombie-Escape-Beta-V2
+# Zombie-Escape-Beta 2.0 (World War Z)
 
 What's New ?
 -
