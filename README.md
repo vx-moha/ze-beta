@@ -73,4 +73,4 @@ Discord
 
 
 
-# Mod Is Not Released Right Now, Still under maintenance
+# Mod Is Released, Enjoy!
