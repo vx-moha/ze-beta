@@ -25,4 +25,4 @@ Modify Mod
 
 - **Credit By VX MOHAMED**
 
-# Download In (Releases)[https://github.com/vx-moha/ze-beta/releases]
+# Download In [Releases](https://github.com/vx-moha/ze-beta/releases)
