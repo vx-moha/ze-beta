@@ -1,76 +1,25 @@
-# Zombie-Escape-Beta 2.0 (World War Z)
+# Zombie Escape Beta
 
-What's New ?
+Emulator Supports
 -
 
-- New Knife Menu !
+- **Support In Horizon Emulator - Exagear Windows Emulator - Termux Box (Mobox) - Winlator**
 
-- Fixed Zombie Hands !
-
-- Zombie Classes With Levels ! 
-
-- New Hud / Menu !
-
-- Screen Fade For (Human & Zombie) !
-
-- Survivor Will Replace To Sniper With Damage !
-
-- More Extra Items !
-
-- Player Models Menu Added !
-
-- Grab For Admin !
-
-- Chat Manager For All !
-
-- New Skins !
-
-- Astra Guillotineex Will Replace In Diamond Menu !
-
-- Ice Cube Added !
-
-Info About Ze
--
-
-- This Mod Is Only Amxx !
-
-- Free Sma 30% !
-
-- Work In Termux Box (Windows)
-
-- Not Support For Who Using Termux Version (Linux)
+- **Termux Version (Ubuntu) Not Support**
 
 - Running With E-Bots !
 
 
-Install Termux Box
+Versions For Running Ze
 -
 
-- Watch This Video : https://youtu.be/1lkm_nOceCU?si=rkbeOjuQgmRyu_br
+- **Amxx Version : 1.9.0**
 
-Versions
--
-
-- Amxx Version : 1.9.0
-
-- Reapi Version : 5.22
+- **Reapi Version : 5.22**
 
 Modify Mod
 -
 
-- Credit By VX MOHAMED
-
-- If You Want Buy Sma Contact Me In Discord
-
-Discord
--
-
-- Username : vx.moha
-
-  Or
-
-- Discord Server : https://discord.com/invite/S7CCjHqzs7
-
-
+- **Credit By VX MOHAMED**
 
 # Mod Is Released, Enjoy!
