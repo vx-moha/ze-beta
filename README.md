@@ -1,13 +1,15 @@
 # Zombie Escape Beta
 
-Emulator Supports
+# Emulator Supports Zombie Escape
 -
 
-- **Support In Horizon Emulator - Exagear Windows Emulator - Termux Box (Mobox) - Winlator**
+1- **Exagear Windows Emulator**
 
-- **Termux Version (Ubuntu) Not Support**
+2- **Winlator**
 
-- Running With E-Bots !
+3- **Termux Box (Mobox)**
+
+4- **Horizon Emulator**
 
 
 Versions For Running Ze
