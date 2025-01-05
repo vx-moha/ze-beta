@@ -1,27 +1,28 @@
-# Zombie Escape Beta
-
 # Emulator Supports Zombie Escape
--
 
-1- **Exagear Windows Emulator**
+1 - **Exagear Windows Emulator**
 
-2- **Winlator**
+2 - **Winlator**
 
-3- **Termux Box (Mobox)**
+3 - **Termux Box (Mobox)**
 
-4- **Horizon Emulator**
+4 - **Horizon Emulator**
 
+# Info Ze
+
+- **Running With E-Bots**
+- **Free Sma (90%)**
 
 Versions For Running Ze
 -
 
-- **Amxx Version : 1.9.0**
+- **Amxx : 1.9.0**
 
-- **Reapi Version : 5.22**
+- **Reapi : 5.22**
 
 Modify Mod
 -
 
 - **Credit By VX MOHAMED**
 
-# Mod Is Released, Enjoy!
+# Download In (Releases)[https://github.com/vx-moha/ze-beta/releases]
